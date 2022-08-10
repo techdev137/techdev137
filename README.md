@@ -3,6 +3,10 @@
 ![Github Profile Watchers](https://komarev.com/ghpvc/?username=mtg137&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/mtg137)
 
+I am a passionate self-taught full stack web developer and a blockchain developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
 ---
 
 ### My Stack 💪💪💪
