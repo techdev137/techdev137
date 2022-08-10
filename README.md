@@ -2,7 +2,6 @@
 
 ![Github Profile Watchers](https://komarev.com/ghpvc/?username=mtg137&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/mtg137)
-![GitHub User's stars](https://img.shields.io/github/stars/mtg137)
 
 ---
 
