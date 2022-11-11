@@ -15,7 +15,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
 ![Binance](https://img.shields.io/badge/-Binance-333333?style=flat&logo=binance)
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=228475)
-![Rust](https://img.shields.io/badge/-rust-333333?style=flat&logo=rust)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
