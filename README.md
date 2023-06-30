@@ -24,6 +24,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-333333?style=flat)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=v)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
