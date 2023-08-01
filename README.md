@@ -30,6 +30,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
+![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress)
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
